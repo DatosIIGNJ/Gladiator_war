@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/json.dir/main.cpp.o  -o json  -L/home/nano/CLionProjects/json/usr/curl/lib -lcurl -Wl,-rpath,/home/nano/CLionProjects/json/usr/curl/lib 
